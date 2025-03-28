@@ -64,7 +64,7 @@ npm stop
 - First download `ngrok` for Windows
 
 ```bash
-choco install go 
+choco install ngrok
 ```
 
 - Then add your token using the following command. You can get token from [this link](https://dashboard.ngrok.com/get-started/setup/windows). Remember to login first.
